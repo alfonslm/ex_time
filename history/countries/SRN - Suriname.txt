@@ -1,0 +1,89 @@
+government = constitutional_republic
+mercantilism = 0.1
+technology_group = western
+primary_culture = germanic_colombian
+religion = reformed
+capital = 2826	# Paramaribo
+
+1910.1.1 = { religion = secularism }
+
+1975.11.25 = {
+	monarch = {
+		name = "Johan Ferrier"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1980.8.15 = {
+	monarch = {
+		name = "Hendrik Chin A Sen"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+
+1982.2.8 = {
+	monarch = {
+		name = "Fred Ramdat Misier"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1988.1.25 = {
+	monarch = {
+		name = "Ramsewak Shankar"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1990.12.29 = {
+	monarch = {
+		name = "Johan Kraag"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+1991.9.16 = {
+	monarch = {
+		name = "Ronald Venetiaan"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+1996.9.15 = {
+	monarch = {
+		name = "Jules Wijdenbosch"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+2000.8.12 = {
+	monarch = {
+		name = "Ronald Venetiaan"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+
+2010.8.12 = {
+	monarch = {
+		name = "Dési Bouterse"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}

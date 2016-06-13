@@ -1,0 +1,29 @@
+government = constitutional_republic
+mercantilism = 0.1
+primary_culture = mbundu
+religion = catholic
+technology_group = muslim
+capital = 1167
+
+1910.1.1 = { religion = secularism }
+
+1975.11.11 = {
+	government = socialist_republic
+	monarch = {
+		name = "António Agostinho Neto"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1979.9.10 = {
+	monarch = {
+		name = "José Eduardo dos Santos"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1992.8.25 = { government = constitutional_republic }

@@ -1,0 +1,31 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = early_indian
+religion = hinduism
+primary_culture = panjabi
+capital = 544
+
+220.1.1 = {
+	monarch = {
+		name = "Sakasena"
+		dynasty = "Abhira"
+		birth_date = 200.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+250.1.1 = { capital = 2184 }
+
+270.1.1 = {
+	monarch = {
+		name = "(Interregnum)"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+750.1.1 = { technology_group = indian }

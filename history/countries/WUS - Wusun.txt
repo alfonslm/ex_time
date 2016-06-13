@@ -1,0 +1,7 @@
+government = steppe_horde
+mercantilism = 0.1
+technology_group = nomad_group
+religion = tengri_pagan_reformed
+primary_culture = kirgiz
+capital = 2435
+

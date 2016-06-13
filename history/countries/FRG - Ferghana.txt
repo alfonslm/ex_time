@@ -1,0 +1,26 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = sogdian
+religion = zoroastrian
+technology_group = middle_eastern
+capital = 458 #Akhsikath
+
+659.1.1 = {
+	monarch = {
+		name = "Yodkhsetak"
+		dynasty = "Dehqan"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+700.1.1 = {
+	monarch = {
+		name = "At-Tar"
+		dynasty = "Farghana"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}

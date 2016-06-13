@@ -1,0 +1,39 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = east_african
+unit_type = sub_saharan
+religion = sunni
+primary_culture = somali
+capital = 2687	# Dawaro
+
+1185.1.1 = {
+	monarch = {
+		name = "'Ali Madahweyne Dir"
+		dynasty = "Dawaro"
+		birth_date = 1170.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1250.1.1 = {
+	monarch = {
+		name = "Haydar"
+		dynasty = "Dawaro"
+		birth_date = 1230.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1329.1.1 = {
+	monarch = {
+		name = "(Interregnum)"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}

@@ -1,0 +1,118 @@
+government = constitutional_republic
+mercantilism = 0.1
+technology_group = western
+religion = protestant
+primary_culture = british_canadian
+capital = 980
+
+1900.1.1 = { religion = secularism }
+
+1907.1.1 = { government = parliamentary_republic }
+
+1907.9.26 = {
+	monarch = {
+		name = "Robert Bond"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1909.3.2 = {
+	monarch = {
+		name = "Edward Patrick Morris"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1878.10.17 = {
+	monarch = {
+		name = "John Crosbie"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1918.1.5 = {
+	monarch = {
+		name = "William Lloyd"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1919.5.22 = {
+	monarch = {
+		name = "Michael Patrick Cashin"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1919.11.17 = {
+	monarch = {
+		name = "Richard Squires"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1923.7.24 = {
+	monarch = {
+		name = "William Warren"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1924.5.10 = {
+	monarch = {
+		name = "Albert Hickman"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1924.6.9 = {
+	monarch = {
+		name = "Walter Stanley Monroe"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1928.8.15 = {
+	monarch = {
+		name = "Frederick Alderice"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1928.11.17 = {
+	monarch = {
+		name = "Richard Squires"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1932.6.11 = {
+	monarch = {
+		name = "Frederick Alderice"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}

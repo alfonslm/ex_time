@@ -1,0 +1,18 @@
+bookmarks = {
+	bookmark = {
+		name = "VIC2_NAME"
+	    desc = "VIC2_DESC"
+    	date = 1836.1.1
+		picture = 
+        default_country = "---"
+        
+        "---"={
+			history = "OTHER_BLITZKRIEG_DESC"
+		}
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

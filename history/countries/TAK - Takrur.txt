@@ -1,0 +1,18 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = senegambian
+religion = shamanism
+technology_group = sub_saharan
+capital = 2310	# Tekrur
+
+1030.1.1 = {
+	monarch = {
+		name = "War Jabi"
+		dynasty = "Takrur"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1035.1.1 = { religion = sunni }

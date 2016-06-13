@@ -1,0 +1,57 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = ruthenian
+religion = slavic
+technology_group = barbarian
+capital = 1943
+
+220.1.1 = { capital = 280 }
+
+350.1.1 = {
+	monarch = {
+		name = "Boz"
+		dynasty = "Antean"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+469.1.1 = {
+	monarch = {
+		name = "Idariz"
+		dynasty = "Idarizid"
+		birth_date = 439.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+500.1.1 = {
+	heir = {
+		name = "Mezamir"
+		monarch_name = "Mezamir"
+		dynasty = "Idarizid"
+		birth_date = 500.1.1
+		death_date = 560.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+520.1.1 = {
+	monarch = {
+		name = "Mezamir"
+		dynasty = "Idarizid"
+		birth_date = 500.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+600.1.1 = { technology_group = eastern }
+900.1.1 = { government = feudal_monarchy }

@@ -1,0 +1,71 @@
+government = constitutional_monarchy
+mercantilism = 0.1
+primary_culture = english
+religion = protestant
+technology_group = early_chinese
+capital = 2009	# Kuching
+
+750.1.1 = { technology_group = chinese }
+
+1841.8.18 = {
+	monarch = {
+		name = "James"
+		dynasty = "Brooke"
+		birth_date = 1803.4.29
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1842.8.18 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles"
+		dynasty = "Brooke"
+		birth_date = 1829.6.3
+		death_date = 1917.5.17
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1868.6.11 = {
+	monarch = {
+		name = "Charles"
+		dynasty = "Brooke"
+		birth_date = 1829.6.3
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1874.9.30 = {
+	heir = {
+		name = "Charles Vyner"
+		monarch_name = "Charles Vyner"
+		dynasty = "Brooke"
+		birth_date = 1874.9.30
+		death_date = 1963.5.9
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1946.10.26 = { government = constitutional_republic }
+
+1963.7.22 = {
+	monarch = {
+		name = "Alexander Waddell"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1984.1.1 = { technology_group = asian }

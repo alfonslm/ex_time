@@ -1,0 +1,295 @@
+government = tribal_kingdom
+mercantilism = 0.1
+primary_culture = telegu
+religion = hinduism
+technology_group = early_indian
+capital = 547
+
+#Sarabhapuriya Dynasty
+499.1.1 = {
+	monarch = {
+		name = "Sarabha"
+		dynasty = "Sarabhapuriya"
+		birth_date = 469.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+499.1.1 = {
+	heir = {
+		name = "Narendra"
+		monarch_name = "Narendra"
+		dynasty = "Sarabhapuriya"
+		birth_date = 495.1.1
+		death_date = 540.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+525.1.1 = {
+	monarch = {
+		name = "Narendra"
+		dynasty = "Sarabhapuriya"
+		birth_date = 495.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+525.1.1 = {
+	heir = {
+		name = "Mahendraditya"
+		monarch_name = "Mahendraditya"
+		dynasty = "Sarabhapuriya"
+		birth_date = 510.1.1
+		death_date = 545.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+}
+
+540.1.1 = {
+	monarch = {
+		name = "Mahendraditya"
+		dynasty = "Sarabhapuriya"
+		birth_date = 510.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+}
+
+540.1.1 = {
+	heir = {
+		name = "Prasannamatra"
+		monarch_name = "Prasannamatra"
+		dynasty = "Sarabhapuriya"
+		birth_date = 515.1.1
+		death_date = 550.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+}
+
+545.1.1 = {
+	monarch = {
+		name = "Prasannamatra"
+		dynasty = "Sarabhapuriya"
+		birth_date = 515.1.1
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+}
+
+545.1.1 = {
+	heir = {
+		name = "Jayaraja"
+		monarch_name = "Jayaraja"
+		dynasty = "Sarabhapuriya"
+		birth_date = 520.1.1
+		death_date = 560.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+550.1.1 = {
+	monarch = {
+		name = "Jayaraja"
+		dynasty = "Sarabhapuriya"
+		birth_date = 520.1.1
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+550.1.1 = {
+	heir = {
+		name = "Manamatra"
+		monarch_name = "Manamatra"
+		dynasty = "Sarabhapuriya"
+		birth_date = 530.1.1
+		death_date = 571.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+
+560.1.1 = {
+	monarch = {
+		name = "Manamatra"
+		dynasty = "Sarabhapuriya"
+		birth_date = 530.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+
+560.1.1 = {
+	heir = {
+		name = "Sudevaraja"
+		monarch_name = "Sudevaraja I"
+		dynasty = "Sarabhapuriya"
+		birth_date = 541.1.1
+		death_date = 590.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+}
+
+571.1.1 = {
+	monarch = {
+		name = "Sudevaraja I"
+		dynasty = "Sarabhapuriya"
+		birth_date = 541.1.1
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+}
+
+571.1.1 = {
+	heir = {
+		name = "Pravaraja"
+		monarch_name = "Pravaraja"
+		dynasty = "Sarabhapuriya"
+		birth_date = 560.1.1
+		death_date = 620.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+590.1.1 = {
+	monarch = {
+		name = "Pravaraja"
+		dynasty = "Sarabhapuriya"
+		birth_date = 560.1.1
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+590.1.1 = {
+	heir = {
+		name = "Vyaghraraja"
+		monarch_name = "Vyaghraraja"
+		dynasty = "Sarabhapuriya"
+		birth_date = 590.1.1
+		death_date = 650.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+620.1.1 = {
+	monarch = {
+		name = "Vyaghraraja"
+		dynasty = "Sarabhapuriya"
+		birth_date = 590.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+620.1.1 = {
+	heir = {
+		name = "Durgaraja"
+		monarch_name = "Durgaraja"
+		dynasty = "Sarabhapuriya"
+		birth_date = 620.1.1
+		death_date = 680.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+}
+
+650.1.1 = {
+	monarch = {
+		name = "Durgaraja"
+		dynasty = "Sarabhapuriya"
+		birth_date = 620.1.1
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+}
+
+650.1.1 = {
+	heir = {
+		name = "Suravala"
+		monarch_name = "Suravala"
+		dynasty = "Sarabhapuriya"
+		birth_date = 650.1.1
+		death_date = 700.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+680.1.1 = {
+	monarch = {
+		name = "Suravala"
+		dynasty = "Sarabhapuriya"
+		birth_date = 650.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+680.1.1 = {
+	heir = {
+		name = "Sudevaraja"
+		monarch_name = "Sudevaraja II"
+		dynasty = "Sarabhapuriya"
+		birth_date = 680.1.1
+		death_date = 720.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+700.1.1 = {
+	monarch = {
+		name = "Sudevaraja II"
+		dynasty = "Sarabhapuriya"
+		birth_date = 680.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+750.1.1 = { technology_group = indian }

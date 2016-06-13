@@ -1,0 +1,26 @@
+government = constitutional_republic
+mercantilism = 0.1
+technology_group = western
+primary_culture = polynesian
+religion = protestant
+capital = 1243
+
+1910.1.1 = { religion = secularism }
+
+1962.1.1 = {
+	monarch = {
+		name = "Malietoa Tanumafili II"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+2007.5.11 = {
+	monarch = {
+		name = "Tufuga Efi"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}

@@ -1,0 +1,69 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = tamil
+religion = hinduism
+technology_group = early_indian
+capital = 2211 #Banavasi
+
+2.1.1 = {
+	monarch = {
+		name = "Chutukulananda"
+		dynasty = "Chutu"
+		birth_date = -28.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+}
+
+51.1.1 = {
+	heir = {
+		name = "Mulananda"
+		monarch_name = "Mulananda"
+		dynasty = "Chutu"
+		birth_date = 51.1.1
+		death_date = 175.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+78.1.1 = {
+	monarch = {
+		name = "Mulananda"
+		dynasty = "Chutu"
+		birth_date = 51.1.1
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+160.1.1 = {
+	heir = {
+		name = "Sivalananda"
+		monarch_name = "Sivalananda"
+		dynasty = "Chutu"
+		birth_date = 160.1.1
+		death_date = 280.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+175.1.1 = {
+	monarch = {
+		name = "Sivalananda"
+		dynasty = "Chutu"
+		birth_date = 160.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = indian }

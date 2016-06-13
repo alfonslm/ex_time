@@ -1,0 +1,38 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = sarmatian
+religion = tengri_pagan_reformed
+technology_group = barbarian
+capital = 155
+
+50.1.1 = {
+	monarch = {
+		name = "Bandanasp"
+		dynasty = "Iazyge"
+		adm = 0
+		dip = 1
+		mil = 4
+	}
+}
+
+166.1.1 = {
+	monarch = {
+		name = "Zanticus"
+		dynasty = "Iazyge"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+}
+
+250.1.1 = {
+	monarch = {
+		name = "(Interregnum)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+600.1.1 = { government = feudal_monarchy technology_group = western }

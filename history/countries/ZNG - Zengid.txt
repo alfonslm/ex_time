@@ -1,0 +1,193 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = al_iraqiya_arabic
+religion = sunni
+technology_group = muslim
+capital = 411	# Mosul
+
+1157.5.8 = {
+	monarch = {
+		name = "Mawdud I"
+		dynasty = "Zengid"
+		birth_date = 1127.1.1
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+}
+
+1157.5.8 = {
+	heir = {
+		name = "Ghazi"
+		monarch_name = "Ghazi II"
+		dynasty = "Zengid"
+		birth_date = 1140.1.1
+		death_date = 1180.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+}
+
+1170.9.6 = {
+	monarch = {
+		name = "Ghazi II"
+		dynasty = "Zengid"
+		birth_date = 1140.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+}
+
+1170.9.6 = {
+	heir = {
+		name = "Mas'ud"
+		monarch_name = "Mas'ud I"
+		dynasty = "Zengid"
+		birth_date = 1150.1.1
+		death_date = 1193.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+}
+
+1180.1.1 = {
+	monarch = {
+		name = "Mas'ud I"
+		dynasty = "Zengid"
+		birth_date = 1150.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+}
+
+1180.1.1 = {
+	heir = {
+		name = "Arslan Shah"
+		monarch_name = "Arslan Shah I"
+		dynasty = "Zengid"
+		birth_date = 1163.1.1
+		death_date = 1211.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+1193.1.1 = {
+	monarch = {
+		name = "Arslan Shah I"
+		dynasty = "Zengid"
+		birth_date = 1163.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+1193.1.1 = {
+	heir = {
+		name = "Mas'ud"
+		monarch_name = "Mas'ud II"
+		dynasty = "Zengid"
+		birth_date = 1181.1.1
+		death_date = 1218.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+}
+
+1211.1.1 = {
+	monarch = {
+		name = "Mas'ud II"
+		dynasty = "Zengid"
+		birth_date = 1181.1.1
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+}
+
+1211.1.1 = {
+	heir = {
+		name = "Arslan Shah"
+		monarch_name = "Arslan Shah II"
+		dynasty = "Zengid"
+		birth_date = 1188.1.1
+		death_date = 1219.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1218.1.1 = {
+	monarch = {
+		name = "Arslan Shah II"
+		dynasty = "Zengid"
+		birth_date = 1188.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1218.1.1 = {
+	heir = {
+		name = "Mahmud"
+		monarch_name = "Mahmud I"
+		dynasty = "Zengid"
+		birth_date = 1189.1.1
+		death_date = 1234.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+}
+
+1219.1.1 = {
+	monarch = {
+		name = "Mahmud I"
+		dynasty = "Zengid"
+		birth_date = 1189.1.1
+		adm = 5
+		dip = 5
+		mil = 0
+	}
+}
+
+1219.1.1 = {
+	heir = {
+		name = "Lu'lu'"
+		monarch_name = "Lu'lu' I"
+		dynasty = "Zengid"
+		birth_date = 1200.1.1
+		death_date = 1259.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1234.1.1 = {
+	monarch = {
+		name = "Lu'lu' I"
+		dynasty = "Zengid"
+		birth_date = 1200.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+

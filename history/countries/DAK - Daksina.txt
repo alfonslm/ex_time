@@ -1,0 +1,395 @@
+government = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+primary_culture = telegu
+religion = hinduism
+technology_group = early_indian
+capital = 551
+
+#Sura Dynasty
+571.1.1 = {
+	monarch = {
+		name = "Sura I"
+		dynasty = "Sura"
+		birth_date = 541.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+571.1.1 = {
+	heir = {
+		name = "Dayitavarman"
+		monarch_name = "Dayitavarman I"
+		dynasty = "Sura"
+		birth_date = 550.1.1
+		death_date = 590.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+580.1.1 = {
+	monarch = {
+		name = "Dayitavarman I"
+		dynasty = "Sura"
+		birth_date = 550.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+580.1.1 = {
+	heir = {
+		name = "Bhimasena"
+		monarch_name = "Bhimasena I"
+		dynasty = "Sura"
+		birth_date = 560.1.1
+		death_date = 600.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+590.1.1 = {
+	monarch = {
+		name = "Bhimasena I"
+		dynasty = "Sura"
+		birth_date = 560.1.1
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+
+590.1.1 = {
+	heir = {
+		name = "Dayitavarman"
+		monarch_name = "Dayitavarman II"
+		dynasty = "Sura"
+		birth_date = 570.1.1
+		death_date = 620.1.1
+		claim = 95
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+
+600.1.1 = {
+	monarch = {
+		name = "Dayitavarman II"
+		dynasty = "Sura"
+		birth_date = 570.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+}
+
+601.1.1 = {
+	heir = {
+		name = "Bhimasena"
+		monarch_name = "Bhimasena II"
+		dynasty = "Sura"
+		birth_date = 601.1.1
+		death_date = 700.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+}
+
+620.1.1 = {
+	monarch = {
+		name = "Bhimasena II"
+		dynasty = "Sura"
+		birth_date = 601.1.1
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+}
+
+700.1.1 = {
+	monarch = {
+		name = "(Interregnum)"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}
+
+750.1.1 = { technology_group = indian }
+
+#Somavasmi Dynasty
+882.1.1 = {
+	monarch = {
+		name = "Janmejaya I"
+		dynasty = "Somavasmi"
+		birth_date = 852.1.1
+		adm = 0
+		dip = 5
+		mil = 2
+	}
+}
+
+892.1.1 = {
+	heir = {
+		name = "Yayati"
+		monarch_name = "Yayati I"
+		dynasty = "Somavasmi"
+		birth_date = 892.1.1
+		death_date = 955.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+}
+
+922.1.1 = {
+	monarch = {
+		name = "Yayati I"
+		dynasty = "Somavasmi"
+		birth_date = 892.1.1
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+}
+
+925.1.1 = {
+	heir = {
+		name = "Bhimaratha"
+		monarch_name = "Bhimaratha I"
+		dynasty = "Somavasmi"
+		birth_date = 925.1.1
+		death_date = 980.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+950.1.1 = { capital = 2232 }
+
+955.1.1 = {
+	monarch = {
+		name = "Bhimaratha I"
+		dynasty = "Somavasmi"
+		birth_date = 925.1.1
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}
+
+955.1.1 = {
+	heir = {
+		name = "Dharmarstha"
+		monarch_name = "Dharmarstha I"
+		dynasty = "Somavasmi"
+		birth_date = 950.1.1
+		death_date = 1005.1.1
+		claim = 95
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+}
+
+980.1.1 = {
+	monarch = {
+		name = "Dharmarstha I"
+		dynasty = "Somavasmi"
+		birth_date = 950.1.1
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+}
+
+980.1.1 = {
+	heir = {
+		name = "Nahusa"
+		monarch_name = "Nahusa I"
+		dynasty = "Somavasmi"
+		birth_date = 975.1.1
+		death_date = 1021.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+1005.1.1 = {
+	monarch = {
+		name = "Nahusa I"
+		dynasty = "Somavasmi"
+		birth_date = 975.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+1005.1.1 = {
+	heir = {
+		name = "Indranatha"
+		monarch_name = "Indranatha I"
+		dynasty = "Somavasmi"
+		birth_date = 991.1.1
+		death_date = 1025.1.1
+		claim = 95
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1021.1.1 = {
+	monarch = {
+		name = "Indranatha I"
+		dynasty = "Somavasmi"
+		birth_date = 991.1.1
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+
+1021.1.1 = {
+	heir = {
+		name = "Yayati"
+		monarch_name = "Yayati II"
+		dynasty = "Somavasmi"
+		birth_date = 995.1.1
+		death_date = 1040.1.1
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+1025.1.1 = {
+	monarch = {
+		name = "Yayati II"
+		dynasty = "Somavasmi"
+		birth_date = 995.1.1
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+
+1025.1.1 = {
+	heir = {
+		name = "Udyotakesari"
+		monarch_name = "Udyotakesari I"
+		dynasty = "Somavasmi"
+		birth_date = 1010.1.1
+		death_date = 1065.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+}
+
+1040.1.1 = {
+	monarch = {
+		name = "Udyotakesari I"
+		dynasty = "Somavasmi"
+		birth_date = 1010.1.1
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+}
+
+1040.1.1 = {
+	heir = {
+		name = "Janmejaya"
+		monarch_name = "Janmejaya II"
+		dynasty = "Somavasmi"
+		birth_date = 1035.1.1
+		death_date = 1080.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1065.1.1 = {
+	monarch = {
+		name = "Janmejaya II"
+		dynasty = "Somavasmi"
+		birth_date = 1035.1.1
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1065.1.1 = {
+	heir = {
+		name = "Puranjaya"
+		monarch_name = "Puranjaya I"
+		dynasty = "Somavasmi"
+		birth_date = 1050.1.1
+		death_date = 1090.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+}
+
+1080.1.1 = {
+	monarch = {
+		name = "Puranjaya I"
+		dynasty = "Somavasmi"
+		birth_date = 1050.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+}
+
+1080.1.1 = {
+	heir = {
+		name = "Karnadeva"
+		monarch_name = "Karnadeva I"
+		dynasty = "Somavasmi"
+		birth_date = 1060.1.1
+		death_date = 1110.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+}
+
+1090.1.1 = {
+	monarch = {
+		name = "Karnadeva I"
+		dynasty = "Somavasmi"
+		birth_date = 1060.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+}

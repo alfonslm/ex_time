@@ -1,0 +1,67 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = sogdian
+religion = zoroastrian
+technology_group = middle_eastern
+capital = 454	# Samarkand
+
+659.1.1 = {
+	monarch = {
+		name = "Tarkhun"
+		dynasty = "Samarkand"
+		birth_date = 639.1.1
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+680.1.1 = {
+	heir = {
+		name = "Gurak"
+		monarch_name = "Gurak"
+		dynasty = "Samarkand"
+		birth_date = 680.1.1
+		death_date = 738.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+710.1.1 = {
+	monarch = {
+		name = "Gurak"
+		dynasty = "Samarkand"
+		birth_date = 680.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+710.1.1 = {
+	heir = {
+		name = "Tuho"
+		monarch_name = "Tuho"
+		dynasty = "Samarkand"
+		birth_date = 710.1.1
+		death_date = 760.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+738.1.1 = {
+	monarch = {
+		name = "Tuho"
+		dynasty = "Samarkand"
+		birth_date = 710.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}

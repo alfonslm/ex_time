@@ -1,0 +1,18 @@
+bookmarks = {
+	bookmark = {
+		name = "CHARLEMAGNE_NAME"
+    	desc = "CHARLEMAGNE_DESC"
+	    date = 769.1.1
+		picture = 
+        default_country = "---"
+        
+        "---"={
+			history = "OTHER_BLITZKRIEG_DESC"
+		}
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

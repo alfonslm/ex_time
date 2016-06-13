@@ -1,0 +1,6 @@
+government = constitutional_republic
+mercantilism = 0.1
+religion = catholic
+primary_culture = french_canadian
+technology_group = western
+capital = 994	# Quebec city

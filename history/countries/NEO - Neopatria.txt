@@ -1,0 +1,88 @@
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+capital = 147
+
+1268.1.1 = {
+	monarch = {
+		name = "Ioannes I"
+		dynasty = "Doukas"
+		birth_date = 1240.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+}
+
+1268.1.1 = {
+	heir = {
+		name = "Constantine"
+		monarch_name = "Constantine I"
+		dynasty = "Doukas"
+		birth_date = 1259.1.1
+		death_date = 1303.1.1
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1289.1.1 = {
+	monarch = {
+		name = "Constantine I"
+		dynasty = "Doukas"
+		birth_date = 1259.1.1
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+1289.1.1 = {
+	heir = {
+		name = "Ioannes"
+		monarch_name = "Ioannes II"
+		dynasty = "Doukas"
+		birth_date = 1270.1.1
+		death_date = 1318.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+1303.1.1 = {
+	monarch = {
+		name = "Ioannes II"
+		dynasty = "Doukas"
+		birth_date = 1270.1.1
+		adm = 0
+		dip = 0
+		mil = 4
+	}
+}
+
+1370.1.1 = {
+	monarch = {
+		name = "Jovan Uros"
+		dynasty = "Nemanjic"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1373.1.1 = {
+	monarch = {
+		name = "Alexios Angelos"
+		dynasty = "Philanthropenos"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}

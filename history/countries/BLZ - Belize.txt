@@ -1,0 +1,62 @@
+government = parliamentary_republic
+mercantilism = 0.1
+technology_group = western
+primary_culture = british_mexican
+religion = protestant
+capital = 843
+
+1910.1.1 = { religion = secularism }
+
+1981.9.12 = {
+	monarch = {
+		name = "George Cadle Price"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1984.12.17 = {
+	monarch = {
+		name = "Manuel Esquivel"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1989.9.7 = {
+	monarch = {
+		name = "George Cadle Price"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1993.7.3 = {
+	monarch = {
+		name = "Manuel Esquivel"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1998.8.28 = {
+	monarch = {
+		name = "Said Musa"
+		adm = 4
+		mil = 3
+		dip = 2
+	}
+}
+
+2008.2.8 = {
+	monarch = {
+		name = "Dean Barrow"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}

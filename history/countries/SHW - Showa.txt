@@ -1,0 +1,194 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = east_african
+unit_type = sub_saharan
+religion = sunni
+primary_culture = amhara
+capital = 1213	# Showa
+
+1180.1.1 = {
+	monarch = {
+		name = "Malasma I"
+		dynasty = "Makhzumid"
+		birth_date = 1150.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1180.1.1 = {
+	heir = {
+		name = "Husein"
+		monarch_name = "Husein I"
+		dynasty = "Makhzumid"
+		birth_date = 1153.1.1
+		death_date = 1193.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}
+
+1183.1.1 = {
+	monarch = {
+		name = "Husein I"
+		dynasty = "Makhzumid"
+		birth_date = 1153.1.1
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}
+
+1183.1.1 = {
+	heir = {
+		name = "'Abdallah"
+		monarch_name = "'Abdallah I"
+		dynasty = "Makhzumid"
+		birth_date = 1163.1.1
+		death_date = 1235.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+}
+
+1193.1.1 = {
+	monarch = {
+		name = "'Abdallah I"
+		dynasty = "Makhzumid"
+		birth_date = 1163.1.1
+		adm = 3
+		dip = 5
+		mil = 0
+	}
+}
+
+1205.1.1 = {
+	heir = {
+		name = "Mahamed"
+		monarch_name = "Mahamed I"
+		dynasty = "Makhzumid"
+		birth_date = 1205.1.1
+		death_date = 1252.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1235.1.1 = {
+	monarch = {
+		name = "Mahamed I"
+		dynasty = "Makhzumid"
+		birth_date = 1205.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1235.1.1 = {
+	heir = {
+		name = "Ganah"
+		monarch_name = "Ganah I"
+		dynasty = "Makhzumid"
+		birth_date = 1222.1.1
+		death_date = 1262.1.1
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+}
+
+1252.1.1 = {
+	monarch = {
+		name = "Ganah I"
+		dynasty = "Makhzumid"
+		birth_date = 1222.1.1
+		adm = 0
+		dip = 5
+		mil = 4
+	}
+}
+
+1252.1.1 = {
+	heir = {
+		name = "Giram-Gaz'i"
+		monarch_name = "Giram-Gaz'i I"
+		dynasty = "Makhzumid"
+		birth_date = 1232.1.1
+		death_date = 1263.1.1
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1262.1.1 = {
+	monarch = {
+		name = "Giram-Gaz'i I"
+		dynasty = "Makhzumid"
+		birth_date = 1232.1.1
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+}
+
+1262.1.1 = {
+	heir = {
+		name = "Dil-Gamis"
+		monarch_name = "Dil-Gamis I"
+		dynasty = "Makhzumid"
+		birth_date = 1233.1.1
+		death_date = 1269.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+}
+
+1263.1.1 = {
+	monarch = {
+		name = "Dil-Gamis I"
+		dynasty = "Makhzumid"
+		birth_date = 1233.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+}
+
+1263.1.1 = {
+	heir = {
+		name = "Dilmarrah"
+		monarch_name = "Dilmarrah I"
+		dynasty = "Makhzumid"
+		birth_date = 1240.1.1
+		death_date = 1283.1.1
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+1269.1.1 = {
+	monarch = {
+		name = "Dilmarrah I"
+		dynasty = "Makhzumid"
+		birth_date = 1240.1.1
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+

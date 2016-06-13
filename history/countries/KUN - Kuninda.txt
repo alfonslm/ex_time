@@ -1,0 +1,19 @@
+government = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+primary_culture = panjabi
+religion = mahayana
+technology_group = early_indian
+capital = 510
+
+30.1.1 = {
+	monarch = {
+		name = "Amoghbhuti"
+		dynasty = "Kuninda"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+750.1.1 = { technology_group = indian }

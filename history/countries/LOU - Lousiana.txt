@@ -1,0 +1,19 @@
+government = constitutional_republic
+mercantilism = 0.1
+technology_group = western
+primary_culture = british_louisianan
+religion = reformed
+capital = 922	# Mobile
+
+1720.1.1 = { capital = 921 }
+
+1791.12.15 = { religion = secularism }
+
+1861.1.26 = {
+	monarch = {
+		name = "Thomas Overton Moore"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
